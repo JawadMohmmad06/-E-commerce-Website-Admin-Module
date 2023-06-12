@@ -6,6 +6,7 @@ This project is an e-commerce website built using Spring MVC with Java. The spec
 - Spring MVC framework
 - Apache log4j for logging
 - Spring Security for authentication and authorization
+- MySql
 ### Key Features:
 - User Management: The admin can retrieve all admins, register a new admin, update admin information, retrieve an admin by ID, and update an admin's password.
 - Seller Verification: The admin can retrieve all seller registrations, update the verification status of sellers, and retrieve seller registration details by ID.
